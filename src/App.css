@@ -1,0 +1,52 @@
+.bdr{
+    border: 4px solid rgb(182, 177, 177) !important;
+}
+.bdr2{
+    border: 2px dashed white  !important;
+}
+.ml{
+    margin-left: 30px;
+    
+
+}
+
+
+.extralength{
+    height: 100vh;
+    width: 100vw;
+}
+.black{
+    background: red;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 23px !important;
+}
+.box{
+    box-sizing: border-box;
+}
+.mt{
+    margin-top: 10px;
+}
+#color,#chfont{
+    color: black;
+}
+.tx{
+    overflow: hidden;  
+}
+.df{
+    display: flex;      
+    /* justify-content:center; */
+    align-items: center;
+    /* flex-direction: column; */
+}
+.df2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.lm{
+    margin-top: 0px !important;
+}
+
+
